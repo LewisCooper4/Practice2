@@ -15,6 +15,7 @@
 		1E3FCAB918B29BAF007C8D58 /* SuperCardAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3FCAB818B29BAF007C8D58 /* SuperCardAppDelegate.m */; };
 		1E3FCABC18B29BAF007C8D58 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E3FCABA18B29BAF007C8D58 /* MainStoryboard.storyboard */; };
 		1E3FCABF18B29BAF007C8D58 /* SuperCardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3FCABE18B29BAF007C8D58 /* SuperCardViewController.m */; };
+		1E3FCAC718B29C58007C8D58 /* PlayingCardView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E3FCAC618B29C58007C8D58 /* PlayingCardView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,8 @@
 		1E3FCABB18B29BAF007C8D58 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		1E3FCABD18B29BAF007C8D58 /* SuperCardViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SuperCardViewController.h; sourceTree = "<group>"; };
 		1E3FCABE18B29BAF007C8D58 /* SuperCardViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SuperCardViewController.m; sourceTree = "<group>"; };
+		1E3FCAC518B29C58007C8D58 /* PlayingCardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCardView.h; sourceTree = "<group>"; };
+		1E3FCAC618B29C58007C8D58 /* PlayingCardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCardView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +83,8 @@
 				1E3FCAB718B29BAF007C8D58 /* SuperCardAppDelegate.h */,
 				1E3FCAB818B29BAF007C8D58 /* SuperCardAppDelegate.m */,
 				1E3FCABA18B29BAF007C8D58 /* MainStoryboard.storyboard */,
+				1E3FCAC518B29C58007C8D58 /* PlayingCardView.h */,
+				1E3FCAC618B29C58007C8D58 /* PlayingCardView.m */,
 				1E3FCABD18B29BAF007C8D58 /* SuperCardViewController.h */,
 				1E3FCABE18B29BAF007C8D58 /* SuperCardViewController.m */,
 				1E3FCAAF18B29BAF007C8D58 /* Supporting Files */,
@@ -165,6 +170,7 @@
 				1E3FCAB518B29BAF007C8D58 /* main.m in Sources */,
 				1E3FCAB918B29BAF007C8D58 /* SuperCardAppDelegate.m in Sources */,
 				1E3FCABF18B29BAF007C8D58 /* SuperCardViewController.m in Sources */,
+				1E3FCAC718B29C58007C8D58 /* PlayingCardView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

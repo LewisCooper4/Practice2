@@ -13,6 +13,7 @@
 @end
 
 @implementation SuperCardViewController
+@synthesize view;
 
 - (void)viewDidLoad
 {
@@ -22,6 +23,7 @@
 
 - (void)viewDidUnload
 {
+    [self setView:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
 }
